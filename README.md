@@ -1,6 +1,5 @@
 # Korisni marketing resursi 🗂
 Lista alata koji mogu biti od pomoći developerima u kreiranju contenta
-Ova lista je u nastajanju i povremeno će biti ažurirana:
 ---
 ## 📈Web analitika
 ### 😍Besplatni alati
